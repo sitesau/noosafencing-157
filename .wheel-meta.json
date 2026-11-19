@@ -1,0 +1,22 @@
+{
+  "wheel_id": 930,
+  "structure": "umbrella",
+  "slug": "noosafencing-157",
+  "project": "fencing-contractors-sunshine-coast-7954a0604c659247ee963855fb94",
+  "parent_t1_ref": "noosafencing-011",
+  "node_role": "buffer",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing contractors sunshine coast",
+  "intended_url": "http://fencing-contractors-sunshine-coast-7954a0604c659247ee963855fb94.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "d0f55ef5c9ef1064",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/fencing-contractors-sunshine-coast-011/",
+      "anchor": "the fencing contractors sunshine coast overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
